@@ -1,0 +1,4 @@
+badgeUrl: '';
+country: '';
+hours: '';
+name: '';
